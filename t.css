@@ -1,0 +1,44 @@
+body{
+    background-color: burlywood;
+    padding-top: 10%;
+}
+th,td{
+    width: 25%;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+table{
+    border-collapse:collapse;
+}
+.vendor{
+    text-align: start;
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.t{
+    background-color: plum;
+}
+.m{
+    background-color: plum;
+}
+.gst{
+    background-color: plum;
+}
+.gt{
+    background-color: plum;
+}
+.st{
+    background-color: plum;
+}
+.total{
+    background-color:lightskyblue;
+}
+.tab{
+    padding-left: 50%;
+}
+.up{
+    text-align: start;
+    padding-left: 15px;
+}
